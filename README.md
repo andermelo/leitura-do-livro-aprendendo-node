@@ -1,1 +1,3 @@
-# leitura-do-livro-aprendendo-node
+# Aprendendo Node
+
+Notas e códigos da leitura do livro
